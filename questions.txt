@@ -1,0 +1,8 @@
+menu driven program to implement operation of simple cube
+#      circular cube
+factorial using Recursion 
+#       natural number
+#       gcd
+#       lcd
+#       fibonancci
+#       tower of hanoi
