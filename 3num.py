@@ -3,7 +3,7 @@ def s(n):
 		return 1;
 	else:
 		return (n + s(n-1))
-n=int(input("enter a number"))
+n=int(input("enter a number\n"))
 s=s(n)
 print ("sum=",s)
 

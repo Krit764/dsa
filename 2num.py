@@ -7,7 +7,7 @@ def enque():
     if (rear+1)%s==front:
         print ("que is full")
         return
-    item = int(input("enter a num"))
+    item = int(input("enter a num:"))
     if (front==-1):
         front =0
         rear =0
@@ -38,7 +38,7 @@ def display():
         i = (i+1)%s
 print (" circular queue menu")
 print ("1=enque 2=deque 3=display 4=exit")
-print("enter choice",end="")
+print("enter choice:",end="")
 while True:
     print()
     c=int(input(""))

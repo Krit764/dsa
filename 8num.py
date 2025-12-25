@@ -8,7 +8,7 @@ def toh(n,a,b,c):
 
 
 
-n=int(input("enter a number of disk"))
+n=int(input("enter a number of disk\n"))
 
 toh (n,'A','B','C')
 
